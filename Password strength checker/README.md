@@ -1,8 +1,6 @@
 # Password Strength Checker
 
-This Python script evaluates the strength of a password based on several criteria, including length, character types, and checks against known compromised passwords using the "Have I Been Pwned" (HIBP) API. It provides feedback and suggestions for improving weak passwords.
-
-**Disclaimer:** This script is for educational purposes only. While it incorporates checks against known compromised passwords, it does not guarantee absolute password security. Password strength evaluation is complex, and no single tool can provide a definitive assessment.  Use this script responsibly and ethically. Do not attempt to use it for any unauthorized activity.
+This Python script evaluates the strength of a password based on several criteria, including length, and character types, and checks against known compromised passwords using the "Have I Been Pwned" (HIBP) API. It provides feedback and suggestions for improving weak passwords.
 
 ## Features
 
